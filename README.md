@@ -8,7 +8,7 @@ Collection of Anki decks created for lectures at Karlsruhe Institute of Technolo
 
 ## Contribute
 
-If you just want to say thank you, you can donate a coffee to [paypal.me/thelukasprobst](paypal.me/thelukasprobst). Thanks :heart:.
+If you just want to say thank you, you can donate a coffee to [paypal.me/thelukasprobst](https://paypal.me/thelukasprobst). Thanks :heart:.
 
 ## Caution
 
