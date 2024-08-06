@@ -12,4 +12,4 @@ If you just want to say thank you, you can donate a coffee to [paypal.me/theluka
 
 ## Caution
 
-:warning: **Please note, that the decks might contain errors or are incomplete. Some decks might also be outdated. Feel free to open an issue, if you find errors.**
+:warning: **Please note that the decks might contain errors or be incomplete. Some decks might also be outdated. Feel free to open an issue if you find errors.**
