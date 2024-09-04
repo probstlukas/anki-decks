@@ -2,9 +2,10 @@
 Collection of Anki decks created for lectures at Karlsruhe Institute of Technology (KIT).
 
 
-| Subject                                    | Lecturer                    | Semester | Language |
-| ------------------------------------------ | --------------------------- | -------- | -------- |
-| Gehirn und Zentrales Nervensystem          | Hon.-Prof. Dr. Uwe Spetzger | SS 24    | :de:     |
+| Subject                                    | Lecturer                                          | Semester | Language |
+| ------------------------------------------ | ------------------------------------------------- | -------- | -------- |
+| Gehirn und Zentrales Nervensystem          | Hon.-Prof. Dr. Uwe Spetzger                       | SS 24    | :de:     |
+| Fortgeschrittene KI (Advanced AI)          | Prof. Dr. Jan Niehues, Prof. Dr. Rudolf Lioutikov | SS 24    | :en:     |
 
 ## Caution
 
