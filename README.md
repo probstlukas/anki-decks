@@ -2,11 +2,11 @@
 Collection of Anki decks created for lectures at Karlsruhe Institute of Technology (KIT).
 
 
-| Subject                                    | Lecturer                                          | Semester | Language |
-| ------------------------------------------ | ------------------------------------------------- | -------- | -------- |
-| Gehirn und Zentrales Nervensystem          | Hon.-Prof. Dr. Uwe Spetzger                       | SS 24    | :de:     |
-| Fortgeschrittene KI (Advanced AI)          | Prof. Dr. Jan Niehues, Prof. Dr. Rudolf Lioutikov | SS 24    | :uk:     |
-| Sichere Mensch-Roboter-Kollaboration       | Dr. Johannes Kurth                                | WS 24/25 | :de:     |
+| Subject                                                                     | Lecturer                                          | Semester | Language |
+| --------------------------------------------------------------------------- | ------------------------------------------------- | -------- | -------- |
+| [Gehirn und Zentrales Nervensystem](Gehirn_und_Zentrales_Nervensystem.apkg) | Hon.-Prof. Dr. Uwe Spetzger                       | SS 24    | :de:     |
+| [Fortgeschrittene KI (Advanced AI)](Advanced_AI.apkg)                       | Prof. Dr. Jan Niehues, Prof. Dr. Rudolf Lioutikov | SS 24    | :uk:     |
+| [Sichere Mensch-Roboter-Kollaboration](Sichere_MRK.apkg)                    | Dr. Johannes Kurth                                | WS 24/25 | :de:     |
 
 ## Caution
 
