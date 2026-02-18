@@ -9,6 +9,8 @@ Collection of Anki decks created for lectures at Karlsruhe Institute of Technolo
 | [Sichere Mensch-Roboter-Kollaboration](Sichere_MRK.apkg)                                      | Dr. Johannes Kurth                                | WS 24/25 | :de:     |
 | [Telematis](Telematics.apkg)                                                                  | Prof. Dr. Martina Zitterbart                      | WS 24/25 | :uk:     |
 | [Introduction to Bioinformatics for Computer Scientists](Introduction_to_Bioinformatics.apkg) | Prof. Dr. Alexandros Stamatakis                   | WS 25/26 | :uk:     |
+| [Software-Evolution](Software-Evolution.apkg)                                                 | Dr. Arne Lange                                    | WS 25/26 | :uk:     |
+
 
 
 ## Caution
