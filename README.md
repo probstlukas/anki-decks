@@ -11,6 +11,7 @@ Collection of Anki decks created for lectures at Karlsruhe Institute of Technolo
 | [Introduction to Bioinformatics for Computer Scientists](Introduction_to_Bioinformatics.apkg) | Prof. Dr. Alexandros Stamatakis                   | WS 25/26 | :uk:     |
 | [Software-Evolution](Software-Evolution.apkg)                                                 | Dr. Arne Lange                                    | WS 25/26 | :uk:     |
 | [Empirical Software Engineering](Empirical_Software_Engineering.apkg)                         | Dr. Raziyeh Dehghani                              | WS 25/26 | :uk:     |
+| [Robotics I](Robotics_I.apkg)                         | Prof. Dr.-Ing. Tamim Asfour                              | WS 25/26 | :uk:     |
 | [Hardware-efficient Artificial Intelligence](Hardware-efficient_AI.apkg)                         | Dr. Martin Rapp                              | WS 25/26 | :uk:     |
 
 ## Caution
