@@ -14,6 +14,7 @@ Collection of Anki decks created for lectures at Karlsruhe Institute of Technolo
 | [Robotics I](Robotics_I.apkg)                                                                 | Prof. Dr.-Ing. Tamim Asfour                       | WS 25/26 | :uk:     |
 | [Hardware-efficient Artificial Intelligence](Hardware-efficient_AI.apkg)                      | Dr. Martin Rapp                                   | WS 25/26 | :uk:     |
 | [Natural Language Processing and Software Engineering](NLP_and_SWE.apkg)                      | Dr. Tobias Hey, Dr. Jan Keim                      | WS 25/26 | :uk:     |
+| [Machine Learning for Natural Sciences](Machine_Learning_for_Natural_Sciences.apkg)           | Prof. Dr. Pascal Friederich                       | SS 26    | :uk:     |
 
 ## Caution
 
